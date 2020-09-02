@@ -1,8 +1,8 @@
 # about-me
 
 ##Repository Links
-* 
-*
+* [Hosted Page](https://lrfares1996.github.io/fares-about-me/)
+* [Source Repository](https://github.com/lrfares1996/fares-about-me)
 
 ##About
 This repo will be used as a resource for Developing Web Applications and Services (44-563).
@@ -23,4 +23,4 @@ Required Languages:
 ##Contributors
 Lyn Fares || Interactive Digital Media: Computer Science Programming
 
-![imgofme](imgofme.jpg =100x)
+![imgofme](imgofme.jpg)
