@@ -23,4 +23,4 @@ Required Languages:
 ##Contributors
 Lyn Fares || Interactive Digital Media: Computer Science Programming
 
-![imgofme](imgofme.jpg =100x100)
+![imgofme](imgofme.jpg =100x)
