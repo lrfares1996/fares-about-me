@@ -18,9 +18,9 @@ Required Languages:
 ##Recommended Resources
 * [W3 Schools](https://www.w3schools.com/html/default.asp)
 * [BitBucket](https://bitbucket.org/)
-* [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
+* [Stack Overflow](https://stackoverflow.com/)
 
 ##Contributors
 Lyn Fares || Interactive Digital Media: Computer Science Programming
 
-![imgofme](imgofme.jpg)
+![imgofme](imgofme.jpg = 100 x 100)
